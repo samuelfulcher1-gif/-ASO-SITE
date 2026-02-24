@@ -1,0 +1,13 @@
+# Next.js
+
+# Local development
+.env.local
+
+# Build output
+.next/
+
+# Node modules
+node_modules/
+
+# Build artifacts
+dist/
